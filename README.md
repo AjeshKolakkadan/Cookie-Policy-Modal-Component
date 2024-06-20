@@ -14,7 +14,9 @@ To use this component in your project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/cookie-policy-modal.git
+    https://github.com/AjeshKolakkadan/Cookie-Policy-Modal-Component.git
+    ```
+    ```sh
     cd cookie-policy-modal
     ```
 
