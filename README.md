@@ -12,18 +12,11 @@ This repository contains a simple React component for displaying a cookie policy
 
 To use this component in your project, follow these steps:
 
-1. **Clone the repository:**
+1. **Use cookies.tsx file directly in to your App:**
     ```sh
-    https://github.com/AjeshKolakkadan/Cookie-Policy-Modal-Component.git
+    https://github.com/AjeshKolakkadan/Cookie-Policy-Modal-Component/blob/main/cookie.tsx
     ```
-    ```sh
-    cd cookie-policy-modal
-    ```
-
-2. **Install dependencies:**
-    ```sh
-    npm install
-    ```
+    Create cookies.tsx file and copy-paste code in to cookies.tsx file.
 
 ## Usage
 
